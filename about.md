@@ -17,7 +17,7 @@ Some brokers offer an investing bonus, as listed below.
 Get a free stock with a value between &euro;1 and &euro;200 when you fund your newly created account using the following link: <https://invite.getbux.com?kid=1F17P3>.
 
 #### Trading 212
-Get a free stock when you fund your newly created account through the following link: <https://www.trading212.com/invite/HYC6mEEW>.
+Get a free stock when you fund your newly created account through the following link: <https://www.trading212.com/invite/HYC6mEEw>.
 
 
 #### Semmie
