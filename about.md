@@ -14,13 +14,13 @@ I would love to refer to myself as _The Gulden Boy_. Ya get me?!
 Some brokers offer an investing bonus, as listed below.
 
 #### Bux Zero
-Get a free stock with a value between %euro;1 and &euro;200 when you fund your newly created account using the following link: https://invite.getbux.com?kid=1F17P3.
+Get a free stock with a value between &euro;1 and &euro;200 when you fund your newly created account using the following link: <https://invite.getbux.com?kid=1F17P3>.
 
 #### Trading 212
-Get a free stock when you fund your newly created account through the following link: https://www.trading212.com/invite/HYC6mEEW.
+Get a free stock when you fund your newly created account through the following link: <https://www.trading212.com/invite/HYC6mEEW>.
 
 
 #### Semmie
 > *This site is Dutch-only, as far as I can tell.*
 
-Receive a &euro;15 booster when you invest &euro;50 within three months of opening your account. Use this link: https://mijn.semmie.nl/in/pWxSoF.
+Receive a &euro;15 booster when you invest &euro;50 within three months of opening your account. Use this link: <https://mijn.semmie.nl/in/pWxSoF>.
