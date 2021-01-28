@@ -6,7 +6,7 @@ permalink: /about/
 
 _[Going Dutch](https://en.wikipedia.org/wiki/Going_Dutch)_ is a blog on (initially) cheap investing. It mostly evolves around Dutch brokers, but some are available in English as well.
 
-| **Disclaimer**: please be careful. I am not a financial expert. You are responsible for your own financial choices. |
+> **Disclaimer**: please be careful. I am not a financial expert. You are responsible for your own financial choices.
 
 I would love to refer to myself as _The Gulden Boy_. Ya get me?!
 
